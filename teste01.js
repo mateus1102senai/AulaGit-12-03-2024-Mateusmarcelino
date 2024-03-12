@@ -1,4 +1,4 @@
-let a = 10;
+let a = 15;
 let b = 20;
 let resultado = a / b
 let mensagem = "O resultado é; ";
